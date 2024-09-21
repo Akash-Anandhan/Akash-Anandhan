@@ -73,8 +73,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Akash-Anandhan/Akash-Anandhan/output/snake.svg](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5MDIyNjksIm5iZiI6MTcyNjkwMTk2OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIxVDA2NTkyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0MDg2ZDkxMzMxOTg4Y2U5MzkwNmNmNmVjMDE3ZTdkZjUyMjMxNGMyNTRlNTMwM2IwMjQ5MTcyMjU1ZDExZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Vf3Lqv2x78OC0BEI2TNNeA7atCbPJFLrOS5v5BJyVco)" alt="Snake animation" />
-
+ ![Snake animation](https://github.com/Akash-Anandhan/Akash-Anandhan/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <div align="left">
