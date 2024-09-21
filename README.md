@@ -73,7 +73,7 @@
 
 <br clear="both">
 
- ![Snake animation](https://github.com/Akash-Anandhan/Akash-Anandhan/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Akash-Anandhan/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <div align="left">
