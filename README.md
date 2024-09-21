@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/en-IN/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522"  />
+<img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
 
 ###
 
